@@ -19,3 +19,7 @@ spec:
       port: 443
       targetPort: https
       nodePort: 32690
+    - name: jnlpport
+      port: 50000
+      targetPort: 50000
+ 
