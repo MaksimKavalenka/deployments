@@ -1,0 +1,5 @@
+platform:
+  config:
+    adminEmail: admin
+    adminPassword: admin
+    organization: none
