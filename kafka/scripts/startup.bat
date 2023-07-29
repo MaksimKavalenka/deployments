@@ -1,2 +1,2 @@
-helm install kafka bitnami/kafka --create-namespace -n kafka --set delete.topic.enable=true
+helm install kafka bitnami/kafka --create-namespace -n kafka -f ../properties/values.yaml
 pause

@@ -1,0 +1,4 @@
+opensearchHosts: "http://opensearch-cluster-master-headless.opensearch:9200"
+extraEnvs:
+  - name: DISABLE_SECURITY_DASHBOARDS_PLUGIN
+    value: "true"

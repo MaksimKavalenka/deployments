@@ -1,2 +1,3 @@
 bitnami https://charts.bitnami.com/bitnami
 conduktor https://helm.conduktor.io
+opensearch https://opensearch-project.github.io/helm-charts
